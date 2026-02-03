@@ -2,51 +2,37 @@
 
 Author: Harl Z.
 
-Creation period: October 2025 – ongoing
-
-------------------------------------------------------------
-
-## Overview
-
-This repository contains a minimal reference page for the project
-"Project Oblivion Zagreus & Mutations".
-
-The project is a personal writing site focused on trauma-related texts,
-CPTSD, dissociation, memory, poetry, and creation.
+Non-commercial personal writing project.
 
 ------------------------------------------------------------
 
 ## Main site
 
-The main site is hosted here:
-
 https://oblivion-zagreus.netlify.app/
 
 ------------------------------------------------------------
 
-## Project orientation
+## Overview
 
-The project is centered on personal writing and interior experience.
+This repository contains a single static pointer page to the main site of
+Project Oblivion Zagreus & Mutations.
 
-The writings engage creation and testimony as ways of surviving
-extreme trauma. They attempt to speak from within the unutterable,
-silence, and rupture.
-
-Texts are presented as fragments, poems, sequences, and diary entries.
+The project is a personal writing site engaging trauma, dissociation and
+dissociative amnesia (cptsd, c-ptsd, ptsd), memory, testimony, diary,
+essays, poetry, and mythopoeia.
 
 ------------------------------------------------------------
 
 ## Repository contents
 
-This repository hosts a single static reference page used to provide
-an external entry point to the main site.
+- index.html  
+  Minimal reference / pointer page to the main site.
 
 ------------------------------------------------------------
 
 ## Rights
 
-All texts © Harl Z. Project Oblivion Zagreus & Mutations
-
+All texts © Harl Z. Project Oblivion Zagreus & Mutations  
 All rights reserved.
 
 ------------------------------------------------------------
